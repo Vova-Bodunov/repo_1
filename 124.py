@@ -1,1 +1,1 @@
-print ("Вася")
+print ("masha")
